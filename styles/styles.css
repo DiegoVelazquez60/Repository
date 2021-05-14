@@ -169,7 +169,7 @@ div.people{
     max-height: 100%;
     background-color: hsl(300, 43%, 22%);
     border-radius: 0.5em;
-    padding:  6vh 10% 9vh 10%;
+    padding:  4vh 5% 7vh 5%;
     display: grid;
     row-gap: 17%;
 }
